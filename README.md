@@ -1,1 +1,1 @@
-# tripcraft-installer
+# Установщик TripCraft Launcher
